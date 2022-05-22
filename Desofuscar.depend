@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1653244811 source:e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\desofuscar\main.c
+	"main.h"
+
+1653244466 e:\descargas\1er cuatri 2022\programacion\ejercicios resueltos\c\desofuscar\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
